@@ -1,0 +1,4 @@
+<map id="iio_remove" name="iio_remove">
+<area shape="rect" id="node1" title="Free the resources allocated by &quot;iio_init()&quot;." alt="" coords="176,5,268,32"/>
+<area shape="rect" id="node2" href="$iio__app_8h.html#ab30cb3626335c87bc6b9f9e1f643a719" title="Release resources." alt="" coords="5,5,128,32"/>
+</map>

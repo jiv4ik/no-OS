@@ -1,0 +1,5 @@
+<map id="ad9523_calibrate" name="ad9523_calibrate">
+<area shape="rect" id="node1" title="Updates the AD9523 configuration." alt="" coords="269,5,401,32"/>
+<area shape="rect" id="node2" href="$ad9523_8h.html#af26d0ef1d15ebc7f6ea3f4dc5317e3c7" title="Setup the AD9523 device." alt="" coords="108,5,221,32"/>
+<area shape="rect" id="node3" href="$fmcdaq2_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,5,60,32"/>
+</map>

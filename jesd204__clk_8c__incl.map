@@ -1,0 +1,12 @@
+<map id="drivers/axi_core/jesd204/jesd204_clk.c" name="drivers/axi_core/jesd204/jesd204_clk.c">
+<area shape="rect" id="node1" title="Analog Devices JESD204 clock." alt="" coords="129,5,305,47"/>
+<area shape="rect" id="node2" href="$error_8h.html" title="Error codes definition." alt="" coords="109,95,173,121"/>
+<area shape="rect" id="node4" href="$jesd204__clk_8h.html" title="Analog Devices JESD204 clock." alt="" coords="240,95,348,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="64,169,132,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="323,319,394,345"/>
+<area shape="rect" id="node6" href="$axi__adxcvr_8h.html" title="Driver for the ADI AXI&#45;ADXCVR Module." alt="" coords="156,169,256,196"/>
+<area shape="rect" id="node9" href="$axi__jesd204__rx_8h.html" title="Driver for the Analog Devices AXI&#45;JESD204&#45;RX peripheral." alt="" coords="193,244,321,271"/>
+<area shape="rect" id="node10" href="$axi__jesd204__tx_8h.html" title="Driver for the Analog Devices AXI&#45;JESD204&#45;TX peripheral." alt="" coords="396,244,524,271"/>
+<area shape="rect" id="node7" title=" " alt="" coords="136,319,218,345"/>
+<area shape="rect" id="node8" href="$xilinx__transceiver_8h.html" title="Driver for the Xilinx High&#45;speed transceiver dynamic reconfiguration." alt="" coords="26,244,168,271"/>
+</map>

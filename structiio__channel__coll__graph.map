@@ -1,0 +1,4 @@
+<map id="iio_channel" name="iio_channel">
+<area shape="rect" id="node1" title="Structure holding attributes of a channel." alt="" coords="8,95,101,121"/>
+<area shape="rect" id="node2" href="$structiio__attribute.html" title="Structure holding pointers to show and store functions." alt="" coords="5,5,104,32"/>
+</map>

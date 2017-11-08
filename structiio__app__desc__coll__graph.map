@@ -1,0 +1,4 @@
+<map id="iio_app_desc" name="iio_app_desc">
+<area shape="rect" id="node1" title="Application desciptor." alt="" coords="10,95,114,121"/>
+<area shape="rect" id="node2" href="$structiio__server__ops.html" title="iio interface for server read/write operations" alt="" coords="5,5,119,32"/>
+</map>

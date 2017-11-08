@@ -1,0 +1,11 @@
+<map id="drivers/platform/aducm3029/rtc.c" name="drivers/platform/aducm3029/rtc.c">
+<area shape="rect" id="node1" title="Implementation of RTC driver for ADuCM302x." alt="" coords="110,5,313,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,73,121"/>
+<area shape="rect" id="node3" href="$error_8h.html" title="Error codes definition." alt="" coords="98,95,162,121"/>
+<area shape="rect" id="node5" href="$rtc_8h.html" title="Header of the RTC interface." alt="" coords="186,95,237,121"/>
+<area shape="rect" id="node7" href="$rtc__extra_8h.html" title="Header file of RTC driver for ADuCM302x." alt="" coords="335,95,426,121"/>
+<area shape="rect" id="node9" href="$irq_8h.html" title="Header file of IRQ interface." alt="" coords="261,95,311,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="96,169,164,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="200,169,271,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="308,169,453,196"/>
+</map>

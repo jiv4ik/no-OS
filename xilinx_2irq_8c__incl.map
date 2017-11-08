@@ -1,0 +1,10 @@
+<map id="drivers/platform/xilinx/irq.c" name="drivers/platform/xilinx/irq.c">
+<area shape="rect" id="node1" title="Implementation of Xilinx IRQ Generic Driver." alt="" coords="191,5,349,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,121,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="145,95,213,121"/>
+<area shape="rect" id="node4" href="$error_8h.html" title="Error codes definition." alt="" coords="238,95,302,121"/>
+<area shape="rect" id="node6" href="$irq_8h.html" title="Header file of IRQ interface." alt="" coords="326,95,377,121"/>
+<area shape="rect" id="node8" href="$xilinx_2irq__extra_8h.html" title=" " alt="" coords="401,95,491,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="229,169,297,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="321,169,392,196"/>
+</map>

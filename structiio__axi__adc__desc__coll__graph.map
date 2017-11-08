@@ -1,0 +1,7 @@
+<map id="iio_axi_adc_desc" name="iio_axi_adc_desc">
+<area shape="rect" id="node1" title="iio desciptor." alt="" coords="5,363,133,389"/>
+<area shape="rect" id="node2" href="$structiio__interface.html" title="Links a physical device instance &quot;void *dev_instance&quot; with a &quot;iio_device *iio&quot; that describes capabil..." alt="" coords="20,273,119,300"/>
+<area shape="rect" id="node3" href="$structiio__device.html" title="Structure holding channels and attributes of a device." alt="" coords="27,184,111,211"/>
+<area shape="rect" id="node4" href="$structiio__channel.html" title="Structure holding attributes of a channel." alt="" coords="115,95,208,121"/>
+<area shape="rect" id="node5" href="$structiio__attribute.html" title="Structure holding pointers to show and store functions." alt="" coords="20,5,119,32"/>
+</map>

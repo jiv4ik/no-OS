@@ -1,0 +1,8 @@
+<map id="drivers/adc/ad7780/ad7780.c" name="drivers/adc/ad7780/ad7780.c">
+<area shape="rect" id="node1" title="Implementation of AD7780 Driver." alt="" coords="17,5,161,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,73,121"/>
+<area shape="rect" id="node3" href="$ad7780_8h.html" title="AD7780 header file." alt="" coords="98,95,181,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="104,244,175,271"/>
+<area shape="rect" id="node5" href="$gpio_8h.html" title="Header file of GPIO Interface." alt="" coords="109,169,170,196"/>
+<area shape="rect" id="node6" href="$spi_8h.html" title="Header file of SPI Interface." alt="" coords="195,169,247,196"/>
+</map>

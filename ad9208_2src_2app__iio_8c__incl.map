@@ -1,0 +1,19 @@
+<map id="projects/ad9208/src/app_iio.c" name="projects/ad9208/src/app_iio.c">
+<area shape="rect" id="node1" title="Application IIO setup." alt="" coords="204,5,352,47"/>
+<area shape="rect" id="node2" href="$error_8h.html" title="Error codes definition." alt="" coords="11,95,75,121"/>
+<area shape="rect" id="node4" href="$uart_8h.html" title="Header file of UART interface." alt="" coords="519,319,579,345"/>
+<area shape="rect" id="node6" title=" " alt="" coords="164,95,264,121"/>
+<area shape="rect" id="node7" href="$iio__app_8h.html" title="Header file of iio_app." alt="" coords="97,169,176,196"/>
+<area shape="rect" id="node11" href="$ad9208_2src_2parameters_8h.html" title="Parameters Definitions." alt="" coords="289,95,398,121"/>
+<area shape="rect" id="node13" href="$ad9208_2src_2app__iio_8h.html" title="Application IIO setup." alt="" coords="423,95,501,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,169,73,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="360,393,431,420"/>
+<area shape="rect" id="node8" href="$iio__types_8h.html" title="Header file for iio_types." alt="" coords="138,319,229,345"/>
+<area shape="rect" id="node9" title=" " alt="" coords="255,393,336,420"/>
+<area shape="rect" id="node10" title=" " alt="" coords="136,393,231,420"/>
+<area shape="rect" id="node12" title=" " alt="" coords="200,169,316,196"/>
+<area shape="rect" id="node14" href="$iio__axi__adc_8h.html" title="Header file of iio_axi_adc." alt="" coords="340,169,443,196"/>
+<area shape="rect" id="node15" href="$axi__adc__core_8h.html" title="Driver for the Analog Devices AXI&#45;ADC&#45;CORE module." alt="" coords="206,244,323,271"/>
+<area shape="rect" id="node17" href="$axi__dmac_8h.html" title="Driver for the Analog Devices AXI&#45;DMAC core." alt="" coords="348,244,443,271"/>
+<area shape="rect" id="node16" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="305,319,358,345"/>
+</map>

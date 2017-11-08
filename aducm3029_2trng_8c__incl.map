@@ -1,0 +1,11 @@
+<map id="drivers/platform/aducm3029/trng.c" name="drivers/platform/aducm3029/trng.c">
+<area shape="rect" id="node1" title="Implementation of true random number generator." alt="" coords="203,5,406,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,73,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,95,251,121"/>
+<area shape="rect" id="node4" href="$trng_8h.html" title="Header file of true random number generator." alt="" coords="275,95,335,121"/>
+<area shape="rect" id="node6" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="359,95,413,121"/>
+<area shape="rect" id="node8" href="$error_8h.html" title="Error codes definition." alt="" coords="454,95,518,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="260,169,331,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="355,169,436,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="460,169,528,196"/>
+</map>

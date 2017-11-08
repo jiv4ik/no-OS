@@ -1,0 +1,10 @@
+<map id="drivers/platform/xilinx/xilinx_spi.c" name="drivers/platform/xilinx/xilinx_spi.c">
+<area shape="rect" id="node1" title="Implementation of Xilinx SPI Generic Driver." alt="" coords="191,5,349,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,73,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,95,213,121"/>
+<area shape="rect" id="node4" href="$error_8h.html" title="Error codes definition." alt="" coords="238,95,302,121"/>
+<area shape="rect" id="node6" href="$spi_8h.html" title="Header file of SPI Interface." alt="" coords="333,169,385,196"/>
+<area shape="rect" id="node8" href="$xilinx_2spi__extra_8h.html" title=" " alt="" coords="377,95,469,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="236,169,304,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="356,244,427,271"/>
+</map>

@@ -1,0 +1,184 @@
+<map id="CMB_SPIWriteByte" name="CMB_SPIWriteByte">
+<area shape="rect" id="node1" title=" " alt="" coords="1511,3124,1649,3151"/>
+<area shape="rect" id="node2" href="$projects_2ad9371_2src_2devices_2ad9528_2ad9528_8h.html#a33589df4c58648c11f1240011349bf53" title="Update the AD9528 clock outputs that are enabled." alt="" coords="1221,5,1429,32"/>
+<area shape="rect" id="node3" href="$projects_2ad9371_2src_2devices_2ad9528_2ad9528_8h.html#a412a36ba91f7d2e338a77983a95bd2a0" title="Initializes the AD9528 by writing all SPI registers." alt="" coords="941,87,1072,113"/>
+<area shape="rect" id="node4" href="$projects_2ad9371_2src_2devices_2ad9528_2ad9528_8h.html#a96f5d1d2da43eef02221437d7507f4c1" title="Send a SPI message to request a SYSREF pulse or continuous SYSREF from the AD9528." alt="" coords="922,776,1091,803"/>
+<area shape="rect" id="node5" href="$projects_2ad9371_2src_2devices_2ad9528_2ad9528_8h.html#a22022a0a20a3e182330df4ce03264683" title="Sets the AD9528 device SPI settings (3wire/4wire, MSBFirst, etc)." alt="" coords="1239,56,1412,83"/>
+<area shape="rect" id="node6" href="$projects_2ad9371_2src_2devices_2ad9528_2ad9528_8h.html#afdcabb2e0478d23083cc7118db4c9e25" title="Allow changing the 9528 SYSREF frequency and pattern mode(CONTINUOUS, PRBS vs NSHOT mode)" alt="" coords="1243,2905,1407,2932"/>
+<area shape="rect" id="node7" href="$ad9371_2src_2devices_2adi__hal_2common_8h.html#a3a161515c21c7163f3b7536141ef2fa0" title=" " alt="" coords="1253,624,1398,651"/>
+<area shape="rect" id="node8" href="$mykonos_8h.html#ae09997d6af18ce910f71d25f83065639" title="Loads binary byte array into ARM program memory. This API function allows user to load the ARM concur..." alt="" coords="897,523,1116,549"/>
+<area shape="rect" id="node9" href="$mykonos_8h.html#ab3ee3841b427a12e2fbcd7f04770d26c" title="Configures one or more FIR filters in the device." alt="" coords="925,573,1088,600"/>
+<area shape="rect" id="node10" href="$mykonos_8h.html#a4de52516e6f9fefafd7abc62d45c0f5a" title="Write indirect registers (Programmable FIRs, Rx gain tables, JESD204B settings). Must be done after M..." alt="" coords="581,200,807,227"/>
+<area shape="rect" id="node11" href="$mykonos_8h.html#a6f62c877342da46ec31250276e7fb49d" title="Resets the ARM processor and performs initialization." alt="" coords="324,225,463,252"/>
+<area shape="rect" id="node12" href="$mykonos_8h.html#af4e8afcee7ba0aa9d820f66953276e17" title="Programs the gain table settings for either Rx1, Rx2, Rx1 + Rx2, ORx, or SnRx receiver types." alt="" coords="895,624,1119,651"/>
+<area shape="rect" id="node13" href="$mykonos_8h.html#aa25d54a30353471b9c937d38004db477" title="Write to the Mykonos ARM program or data memory." alt="" coords="915,1147,1098,1173"/>
+<area shape="rect" id="node15" href="$mykonos_8h.html#a354bf76c64b7ef66cb177fcc18347942" title="Loads binary byte array into ARM program memory." alt="" coords="5,588,224,615"/>
+<area shape="rect" id="node30" href="$ad9371_2src_2devices_2adi__hal_2common_8h.html#a94b8aeaee6cfa01c8dfc666ab607cf0e" title=" " alt="" coords="1257,2131,1394,2157"/>
+<area shape="rect" id="node32" href="$mykonos_8h.html#a2cf450065c2faf2767bc37bb20456577" title="Enables/Disables the JESD204B ObsRx Framer." alt="" coords="883,1264,1130,1291"/>
+<area shape="rect" id="node35" href="$mykonos_8h.html#a38270593cc03c4dd1428fda5718a7acd" title="Enables/Disables the JESD204B Rx Framer." alt="" coords="896,1315,1117,1341"/>
+<area shape="rect" id="node40" href="$mykonos_8h.html#a017574e8660adde775002d9cadb5a7ba" title="Enables/Disables the Tx NCO test tone." alt="" coords="919,1365,1094,1392"/>
+<area shape="rect" id="node41" href="$mykonos_8h.html#a0fce410c9620b64297d3fb583415803d" title="Obtains an estimate of a TX channel&#39;s accumulated power over the sample duration provided in MYKONOS_..." alt="" coords="918,1517,1095,1544"/>
+<area shape="rect" id="node42" href="$mykonos_8h.html#a26b695db592df334a9ef189d9d66125f" title="Initializes the Mykonos device based on the desired device settings." alt="" coords="321,3131,465,3157"/>
+<area shape="rect" id="node43" href="$mykonos_8h.html#a4b3560a0c43b20850f774a8d064e7711" title="Read from the Mykonos ARM program or data memory." alt="" coords="916,1416,1097,1443"/>
+<area shape="rect" id="node75" href="$mykonos_8h.html#ad89fbd9107db3085e1b1a086f9b42fe5" title="Sets up the device ObsRx Automatic Gain Control (AGC) registers." alt="" coords="597,2643,791,2669"/>
+<area shape="rect" id="node76" href="$mykonos_8h.html#a459c151c61d9d97d0c55704157a82ff7" title="Sets up the device Rx Automatic Gain Control (AGC) registers." alt="" coords="610,3080,778,3107"/>
+<area shape="rect" id="node78" href="$mykonos__gpio_8h.html#a039d5e60463249a54a37b084379aac02" title="Sets the selected channel of the auxiliary ADC." alt="" coords="900,3181,1113,3208"/>
+<area shape="rect" id="node88" href="$mykonos_8h.html#a734d1ba6a6d10653fed2f68a68fcba15" title="Sets the measure count which is the number of samples taken before DC offset correction is applied fo..." alt="" coords="905,3232,1108,3259"/>
+<area shape="rect" id="node96" href="$mykonos__gpio_8h.html#ae4bc0651fc6648acb34624dc7985131f" title="Sets up the auxiliary ADC." alt="" coords="915,3283,1099,3309"/>
+<area shape="rect" id="node97" href="$mykonos_8h.html#a1b894437d558bffd7c3e3104dcc929cb" title="Sets up the JESD204B Deserializers." alt="" coords="901,827,1112,853"/>
+<area shape="rect" id="node98" href="$mykonos_8h.html#a28e565c2636d10e66bdcf4c6aaab0206" title="Sets up the JESD204B Deframer." alt="" coords="883,877,1131,904"/>
+<area shape="rect" id="node99" href="$mykonos_8h.html#aba0e76dcc62edce96c06c8ff1ccbbc4c" title="Sets up the JESD204B Framer." alt="" coords="891,928,1123,955"/>
+<area shape="rect" id="node100" href="$mykonos_8h.html#a1ee4679408cda4c7d416557058245b05" title="Sets up the JESD204B OBSRX Framer." alt="" coords="901,1030,1113,1071"/>
+<area shape="rect" id="node101" href="$mykonos_8h.html#a2867fade3dcee9606349ccd67fd5d1e1" title="Sets up the JESD204B Serializers." alt="" coords="909,1096,1104,1123"/>
+<area shape="rect" id="node104" href="$mykonos__gpio_8h.html#aab3d6a4e00d59995cc2a00c6c59d1d5f" title="Writes the current AuxDAC code for a particular AuxDAC." alt="" coords="921,3333,1093,3360"/>
+<area shape="rect" id="node105" href="$mykonos_8h.html#af5d49d91a69c485e3f92571e89bbcc63" title="Clears the deframer/deserializer PRBS counters." alt="" coords="1219,2957,1432,2998"/>
+<area shape="rect" id="node106" href="$mykonos_8h.html#aa72ffe9605bded0e0af9c4e2e64b168f" title="Manually clears the PA Protection Error Flags." alt="" coords="1227,3023,1423,3049"/>
+<area shape="rect" id="node107" href="$mykonos__gpio_8h.html#afbdbd1ed10d6530c641a0dfaa7e163c0" title="Sets the General Purpose (GP) interrupt register bit mask to enable interrupt sources to assert the G..." alt="" coords="1223,3073,1427,3100"/>
+<area shape="rect" id="node108" href="$mykonos__dbgjesd_8h.html#ad8e4fd867124e32fb54920bc3f3ee00b" title="Performs reads to JESD Deframer secondary status register." alt="" coords="1224,3124,1427,3151"/>
+<area shape="rect" id="node109" href="$mykonos_8h.html#a73942fff4594cdd608b3128b97217f57" title="Configures and enables or disables the transceiver&#39;s deframer PRBS checker." alt="" coords="1213,3175,1438,3217"/>
+<area shape="rect" id="node110" href="$mykonos_8h.html#a1c8fcb330055a52b0e385b3267a4bc70" title="Sets up the chip for multichip sync, and cleans up after MCS." alt="" coords="1214,3241,1437,3268"/>
+<area shape="rect" id="node111" href="$mykonos_8h.html#a011284ed71337cf625e657d9ded031e3" title="Selects the PRBS type and enables or disables OBSRX Framer PRBS20 generation." alt="" coords="1201,3292,1450,3319"/>
+<area shape="rect" id="node112" href="$mykonos_8h.html#a8d2c107c61098e2264313849abe72cd1" title="Selects the PRBS type and enables or disables RX Framer PRBS20 generation." alt="" coords="1213,3343,1437,3369"/>
+<area shape="rect" id="node113" href="$mykonos__dbgjesd_8h.html#aef882e01515c659d7bd8e7b69478bfb1" title="Performs set JESD framer Pattern Generator." alt="" coords="1210,3393,1441,3420"/>
+<area shape="rect" id="node114" href="$mykonos__dbgjesd_8h.html#ab05f1b722092245719b54953edde72bb" title="Performs set JESD framer Zero data samples per lane." alt="" coords="1215,3444,1435,3471"/>
+<area shape="rect" id="node115" href="$mykonos_8h.html#a099de9800981ebf8bb8ded3ada565307" title="Reads the Mykonos JESD204b Deframer determinstic FIFO depth." alt="" coords="1208,3495,1443,3521"/>
+<area shape="rect" id="node116" href="$mykonos_8h.html#a65b6116ca9e996369e50ff360ca6d9cb" title="Returns PA Protection Error Flag Status." alt="" coords="1222,3546,1429,3587"/>
+<area shape="rect" id="node117" href="$mykonos_8h.html#a33e6b1589d35fe9231f31ac26bda576a" title="Reads back the Tx1 RF output Attenuation." alt="" coords="1220,3612,1431,3639"/>
+<area shape="rect" id="node118" href="$mykonos_8h.html#a975d665643669f3c504b7c862dd3aa69" title="Reads back the Tx2 RF output Attenuation." alt="" coords="1220,3663,1431,3689"/>
+<area shape="rect" id="node119" href="$mykonos_8h.html#afc83d89a7f7205ce980a15e1fecdb1f0" title="Reads the lane 0 JESD204B deframer configuration and compares it against the ILAS received values." alt="" coords="1220,3713,1431,3740"/>
+<area shape="rect" id="node120" href="$mykonos__dbgjesd_8h.html#a64da4288564ae33bdf38a6455c41a248" title="Performs indirect read access to internal JESD register." alt="" coords="1237,3764,1414,3791"/>
+<area shape="rect" id="node130" href="$mykonos__dbgjesd_8h.html#aaccf29aa03a610d9f8f515b7576d607c" title="Performs indirect write access to internal JESD register." alt="" coords="1237,3815,1413,3841"/>
+<area shape="rect" id="node133" href="$mykonos_8h.html#a57e3f65072de3449b9a029863fc37d0c" title="Initiates a PRBS error injection into the Observation RX data path." alt="" coords="1213,3865,1437,3892"/>
+<area shape="rect" id="node134" href="$mykonos_8h.html#aa530a655b6170099942aa1ec744d9504" title="Reads the deframer PRBS counters." alt="" coords="1220,3917,1431,3958"/>
+<area shape="rect" id="node135" href="$mykonos_8h.html#a46a23c444121941a48908a48d9a856a5" title="Reads the transceiver&#39;s deframer status." alt="" coords="1213,3983,1438,4009"/>
+<area shape="rect" id="node136" href="$mykonos_8h.html#ac106534af9ed9c1aaaf6d483f217f422" title="Reads the FIR filter programmed into the device." alt="" coords="1257,4033,1393,4060"/>
+<area shape="rect" id="node137" href="$mykonos_8h.html#a20a17db3cda23bd6e7da09da23d4dff7" title="Reads the transceiver&#39;s Observation RX framer status." alt="" coords="1210,4084,1441,4111"/>
+<area shape="rect" id="node138" href="$mykonos_8h.html#ac3740d0a08c5cac1f0265512d5ca2852" title="Reads the transceiver&#39;s RX framer status." alt="" coords="1213,4135,1437,4161"/>
+<area shape="rect" id="node139" href="$mykonos_8h.html#a5e80f515c2b7860cfd8ea767346b9108" title="Resets the JESD204B Deframer." alt="" coords="1232,4185,1419,4212"/>
+<area shape="rect" id="node140" href="$mykonos_8h.html#afff57815a81179be0fa0c9c460e74f9f" title="Injects a PRBS error into the RX data path." alt="" coords="1226,4236,1425,4263"/>
+<area shape="rect" id="node141" href="$mykonos_8h.html#ab40f9bca2d5a79a02a39f0a49dada36a" title="Sends a command to the Mykonos ARM processor." alt="" coords="897,1213,1116,1240"/>
+<area shape="rect" id="node153" href="$mykonos__gpio_8h.html#a4c0f905f2d85f7464c04f3886a1ba2dd" title="Floating point formatter enable and setup function." alt="" coords="1223,4287,1428,4313"/>
+<area shape="rect" id="node154" href="$mykonos__gpio_8h.html#af6a3bcca4a55693a5a8da2dced16ee64" title="This function sets the Pin direction control for the Mykonos 3.3 VDC GPIO." alt="" coords="1234,4337,1417,4364"/>
+<area shape="rect" id="node155" href="$mykonos__gpio_8h.html#a0571fc333dd76ebd6132e39361c21af2" title="Sets the Mykonos 3.3 VDC GPIO configuration registers." alt="" coords="916,4363,1097,4389"/>
+<area shape="rect" id="node156" href="$mykonos__gpio_8h.html#aa62045fbf6f5b96a531be217d57bd02d" title="If the GPIO3v3 pins are setup for BITBANG mode, this function sets the output pin levels per pin." alt="" coords="1217,4439,1434,4465"/>
+<area shape="rect" id="node157" href="$mykonos__gpio_8h.html#ad514616970129e85b61f6125ace98df4" title="Sets the Mykonos GPIO 3.3 VDC source control for different GPIO fucntionality." alt="" coords="1209,4489,1441,4516"/>
+<area shape="rect" id="node158" href="$mykonos__gpio_8h.html#a27759450ee71c57a3fa7e8390abb59ec" title="This function sets the drive strength for the required GPIOs." alt="" coords="1243,4540,1407,4567"/>
+<area shape="rect" id="node159" href="$mykonos__gpio_8h.html#a330f3750d09514ea676d76d41b05f72d" title="This API function configures the monitor output function for the GPIOs." alt="" coords="1219,4591,1432,4617"/>
+<area shape="rect" id="node160" href="$mykonos__gpio_8h.html#acea689af010c43c617de14d59b5a019a" title="Sets the Mykonos low voltage GPIO output pins level." alt="" coords="1228,4641,1423,4668"/>
+<area shape="rect" id="node161" href="$mykonos__gpio_8h.html#abde904604e1cd1363e65390927eec2b5" title="This function sets the slew rate for the required GPIOs." alt="" coords="1225,4692,1425,4719"/>
+<area shape="rect" id="node162" href="$mykonos__gpio_8h.html#af02599dae7cf7edfd7b5f7f486ce859c" title="Sets the Mykonos GPIO source control for different GPIO functionality." alt="" coords="1221,2652,1430,2679"/>
+<area shape="rect" id="node163" href="$mykonos_8h.html#a6a26defa54ef9561a9b5f5923df5501d" title="This function sets the min/max gain indexes for AGC in the observation channel." alt="" coords="1213,4743,1438,4785"/>
+<area shape="rect" id="node164" href="$mykonos__gpio_8h.html#aba01cc74c779c7850f2708856826158f" title="Gain compensation enable and setup function for the observation channel." alt="" coords="1188,4809,1463,4836"/>
+<area shape="rect" id="node165" href="$mykonos_8h.html#ad7486c37b48d8797f693545941744308" title="Sets the Rx gain of the ObsRx channel." alt="" coords="1211,216,1439,243"/>
+<area shape="rect" id="node166" href="$mykonos__gpio_8h.html#abebb8ad46d4c874337038cc5d7998101" title="Slicer control over GPIO inputs for the observation channel." alt="" coords="1220,4860,1431,4887"/>
+<area shape="rect" id="node167" href="$mykonos_8h.html#a435420befd4c3d02bf462ff23dd4aa0e" title="This function sets the Temperature gain compensation for the observation channel." alt="" coords="1198,4911,1453,4937"/>
+<area shape="rect" id="node168" href="$mykonos__gpio_8h.html#af2683af830934fba6a56d64d9e83c06e" title="Floating point formatter enable function for ORx channel." alt="" coords="1209,4961,1441,4988"/>
+<area shape="rect" id="node169" href="$mykonos_8h.html#ab2bca60e904aee5e5521f9d3120a5cc7" title="Sets the Rx1 Manual Gain Index." alt="" coords="1220,283,1431,309"/>
+<area shape="rect" id="node170" href="$mykonos_8h.html#a12379042cc285a94c9cf6d4b77e94227" title="This function sets the Temperature gain compensation for Rx1 channel." alt="" coords="1207,5012,1444,5039"/>
+<area shape="rect" id="node171" href="$mykonos_8h.html#a8332dad15b6d6ca1c43f3ef2e9ac1c78" title="Sets the Rx2 Manual Gain index." alt="" coords="1220,357,1431,384"/>
+<area shape="rect" id="node172" href="$mykonos_8h.html#a11582212a92e2118e3758064a4badbe3" title="This function sets the Temperature gain compensation for Rx2 channel." alt="" coords="1207,5063,1444,5089"/>
+<area shape="rect" id="node173" href="$mykonos_8h.html#aaad6320c3e7e7bf704d2ff9136b044d2" title="This function sets the min/max gain indexes for AGC in the main RX channel." alt="" coords="1211,5114,1440,5155"/>
+<area shape="rect" id="node174" href="$mykonos__gpio_8h.html#a05180d8c221a1f18df7f5e83aa4e282a" title="Floating point formatter enable/disable Rx1 and Rx2 function." alt="" coords="1213,5180,1438,5207"/>
+<area shape="rect" id="node175" href="$mykonos__gpio_8h.html#a8813625701fd0f31d8301aa8252218e6" title="Gain compensation enable and setup function." alt="" coords="1200,5231,1451,5257"/>
+<area shape="rect" id="node176" href="$mykonos_8h.html#a82170c4c21b980eb1303e5abb1803fdb" title="Configures the Rx gain control mode." alt="" coords="575,3333,813,3360"/>
+<area shape="rect" id="node177" href="$mykonos__gpio_8h.html#a056e27be162569eda4594c31ebec1952" title="Slicer control over GPIO inputs." alt="" coords="1233,5281,1418,5308"/>
+<area shape="rect" id="node178" href="$mykonos_8h.html#a0aa60f219aee35060cd4aa3fe3a09240" title="Sets the Mykonos device SPI settings (3wire/4wire, MSBFirst, etc)." alt="" coords="601,3587,787,3613"/>
+<area shape="rect" id="node179" href="$mykonos_8h.html#abdc6576d14ef49e6ff3cd971cee0cc77" title="Sets the Tx1 RF output Attenuation." alt="" coords="1220,409,1431,436"/>
+<area shape="rect" id="node180" href="$mykonos_8h.html#afaab359ed040723dae129c565a236cae" title="Sets the Tx2 RF output Attenuation (Step size is 0.05dB.)" alt="" coords="1220,464,1431,491"/>
+<area shape="rect" id="node181" href="$mykonos__gpio_8h.html#af81f4c260b0110fed0d0193bda32518c" title="Sets up the 10 AuxDACs on the Mykonos device." alt="" coords="1233,5332,1418,5359"/>
+<area shape="rect" id="node182" href="$mykonos_8h.html#acadc1b6c4e64379f0757c7e00644fac4" title="Writes Mykonos device registers with settings for the PA Protection block." alt="" coords="1221,5383,1430,5409"/>
+<area shape="rect" id="node14" href="$mykonos_8h.html#a2b5ba77b572023bf56813ed659695307" title="Function called automatically that loads the ADC profiles into the ARM." alt="" coords="599,301,789,328"/>
+<area shape="rect" id="node16" href="$mykonos_8h.html#a111d88c14bfc69497f06e50c1cd6fd81" title="This function will allow loading of the DPD model file." alt="" coords="593,707,795,733"/>
+<area shape="rect" id="node17" href="$mykonos_8h.html#a1fa7fc3db564c9c22db23af155cfd645" title="Suspend or resume tracking calibrations in RADIO_ON." alt="" coords="7,1315,222,1341"/>
+<area shape="rect" id="node18" href="$mykonos_8h.html#aa3101b2f0cc1b4f30d4df2cbed688b98" title="This function will configure the path delay settings for all the features: DPD, VSWR and CLGC." alt="" coords="605,605,783,632"/>
+<area shape="rect" id="node19" href="$mykonos_8h.html#a42e222e6dc5237978034cca4582f83b1" title="Configures the Radio power up/down control for Rx and Tx paths to be controlled by pins (TX1/2_ENABLE..." alt="" coords="570,504,818,531"/>
+<area shape="rect" id="node20" href="$mykonos_8h.html#a98d61cecb6eed941484e6db331da2ec8" title="Sets the RF PLL local oscillator frequency (RF carrier frequency)." alt="" coords="592,555,796,581"/>
+<area shape="rect" id="node21" href="$mykonos_8h.html#a098948dc72e67594cf6e5cf65743f049" title="Low level helper function used by Mykonos API to write the ARM memory config structures." alt="" coords="599,656,789,683"/>
+<area shape="rect" id="node29" href="$mykonos_8h.html#a151e75ae341921c0529b7f075adf58e7" title="Mykonos ARM configuration write." alt="" coords="599,251,789,277"/>
+<area shape="rect" id="node22" href="$mykonos_8h.html#a366f39050ef5877e4f98ccfe0744b284" title="This function will configure CLGC settings." alt="" coords="314,773,473,800"/>
+<area shape="rect" id="node23" href="$mykonos_8h.html#a9abc5ff152769a26905f0a454d1713ad" title="This function will configure DPD settings." alt="" coords="315,824,472,851"/>
+<area shape="rect" id="node24" href="$mykonos_8h.html#a7baa5941b75ba68d467285adda7dc8b5" title="This function, when called during RadioOff, will configure VSWR settings." alt="" coords="313,875,474,901"/>
+<area shape="rect" id="node25" href="$mykonos_8h.html#a16cf26692afd555ee9e355493f365679" title="CLGC feature to set the TX attenuation tuning range to a relative range around a nominal value." alt="" coords="286,555,501,597"/>
+<area shape="rect" id="node26" href="$mykonos_8h.html#a476245e3463907bbcc2a6a227abc5700" title="Sets the default Obs Rx channel to enter when device moves from radioOff to radioOn." alt="" coords="280,723,507,749"/>
+<area shape="rect" id="node27" href="$mykonos_8h.html#a6dde751ed5cc38f1086a158760e5bb9d" title="DPD feature to set the actuator gain difference check. If the gain before and after the actuator exce..." alt="" coords="277,621,510,648"/>
+<area shape="rect" id="node28" href="$mykonos_8h.html#aec69a32ff6353cfe1178f07c584f90ce" title="DPD feature to set the bypassing actuator when Tx signal power is below a programmable threshold give..." alt="" coords="281,672,506,699"/>
+<area shape="rect" id="node31" href="$mykonos__dbgjesd_8h.html#a334e054fa98f25b9d7d639f77535f02e" title="Performs Deframer Force SYNC requests." alt="" coords="886,2612,1127,2639"/>
+<area shape="rect" id="node33" href="$mykonos_8h.html#a78faf91ccdd6d035fed74cdb1076cf09" title="Enables or disables the ObsRx slow loop gain counter to use the sync pulse." alt="" coords="895,2663,1119,2705"/>
+<area shape="rect" id="node34" href="$mykonos_8h.html#a1510bb8195a488b6eba4f2ebd5e5851a" title="Enables the Mykonos PA Protection block according to the parameters passed in MYKONOS_setupPaProtecti..." alt="" coords="899,2729,1115,2756"/>
+<area shape="rect" id="node36" href="$mykonos_8h.html#a773dc697a1248132a3cddfc37a44508b" title="Enables or disables the Rx slow loop gain counter to use the sync pulse." alt="" coords="891,2781,1122,2822"/>
+<area shape="rect" id="node37" href="$mykonos_8h.html#a0b640ce0e06f83298e6c80d8d6a6a2e2" title="Enables or disables SYSREF to the transceiver&#39;s deframer." alt="" coords="881,2847,1132,2873"/>
+<area shape="rect" id="node38" href="$mykonos_8h.html#a089990cd9c8d9644ec8a8a931275e998" title="Enables or disables SYSREF to the transceiver&#39;s Observation RX framer." alt="" coords="899,2898,1114,2939"/>
+<area shape="rect" id="node39" href="$mykonos_8h.html#ac3d07eb05e91c9824534c2aa69e24e79" title="Enables or disables SYSREF to the transceiver&#39;s RX framer." alt="" coords="905,2963,1109,3005"/>
+<area shape="rect" id="node73" href="$mykonos__gpio_8h.html#ad8fe4ea8c5babfa441bd14f99b9cf0cf" title="Reads from the selected channel of the auxiliary ADC." alt="" coords="921,1720,1092,1747"/>
+<area shape="rect" id="node74" href="$mykonos_8h.html#af455ba745065b3e41d452677e5f01b72" title="This function resets the AGC state machine." alt="" coords="924,3029,1089,3056"/>
+<area shape="rect" id="node77" href="$mykonos__gpio_8h.html#a0d42a34f474c5ed45aaca8bc31e162df" title="Sets the input and output GPIO pin selections for ARM related signals." alt="" coords="597,2429,791,2456"/>
+<area shape="rect" id="node79" href="$mykonos__gpio_8h.html#ad2dff5a01c9c37635ec22b768077b6ea" title="This function sets the CMOS output driver." alt="" coords="921,1771,1093,1797"/>
+<area shape="rect" id="node80" href="$mykonos_8h.html#a1ac95148c64f002b4be5ae2a0275c302" title="Enable/ Disable Digital DC Offset channels using the channel mask. The mask can be a combination of t..." alt="" coords="904,1821,1109,1848"/>
+<area shape="rect" id="node81" href="$mykonos_8h.html#a1ad3606962206e04222dd7263bcc418b" title="Sets M&#45;Shift value which is the Corner frequency of Rx notch filter for the given channel...." alt="" coords="892,1872,1121,1899"/>
+<area shape="rect" id="node82" href="$mykonos__gpio_8h.html#a04adbb420c23f2df64f8c85959dce4a7" title="Sets the Mykonos low voltage GPIO output pins direction." alt="" coords="927,1619,1087,1645"/>
+<area shape="rect" id="node84" href="$mykonos__gpio_8h.html#a005306192f1c41808714ef0c6099b19e" title="This API function set the pins for AGC gain Sync control." alt="" coords="885,1923,1128,1949"/>
+<area shape="rect" id="node85" href="$mykonos_8h.html#a16c37fa2ca8443694ac3d016404fb6d6" title="Select data to inject into the ObsRx framer input (ADC data or Loopback data from deframer output)" alt="" coords="892,1974,1121,2015"/>
+<area shape="rect" id="node86" href="$mykonos_8h.html#a6aec7b4970b0eb252c04908cb4fbe3c7" title="Configures the ObsRx gain control mode." alt="" coords="563,3131,825,3157"/>
+<area shape="rect" id="node87" href="$mykonos__gpio_8h.html#ad7ae436f6bec056f7448181b077244be" title="This API function set the pins for hybrid gain control." alt="" coords="895,2039,1118,2081"/>
+<area shape="rect" id="node89" href="$mykonos__gpio_8h.html#a708e8f2aee98c7a63ef124bc0f400031" title="This API function configures the GPIO inputs for controlling RX gain." alt="" coords="903,2105,1110,2132"/>
+<area shape="rect" id="node90" href="$mykonos__gpio_8h.html#acaca0dc0d54b2951d89cc0773598f569" title="This API function configures the GPIO inputs for controlling RX gain." alt="" coords="903,2207,1110,2233"/>
+<area shape="rect" id="node91" href="$mykonos__gpio_8h.html#a5b07c00df65c020826a41bee748808a5" title="This API function set the pins for sync AGC gain control." alt="" coords="897,2257,1116,2284"/>
+<area shape="rect" id="node92" href="$mykonos_8h.html#a14ea2ecebfcea2f4c6c3e932dc55c9bc" title="Select data to inject into the Rx framer input (ADC data or Loopback data from deframer output)" alt="" coords="882,2308,1131,2335"/>
+<area shape="rect" id="node93" href="$mykonos__gpio_8h.html#abefdded3c26722be1759df300c332905" title="This API function set the pins for hybrid gain control." alt="" coords="873,2359,1140,2385"/>
+<area shape="rect" id="node94" href="$mykonos__gpio_8h.html#ae21b53bed363c9d3c175fc01522d53d7" title="This API function configures the GPIO inputs for controlling Tx attenuation settings." alt="" coords="901,2409,1112,2436"/>
+<area shape="rect" id="node95" href="$mykonos__gpio_8h.html#ab3dd2fa4b24e143850d0c64f1f51bd46" title="This API function configures the GPIO inputs for controlling Tx attenuation settings." alt="" coords="901,2460,1112,2487"/>
+<area shape="rect" id="node102" href="$mykonos__gpio_8h.html#aebe5471c98562e72b4b316e08b800dfe" title="This API function configures and enables the secondary SPI port." alt="" coords="913,2511,1100,2537"/>
+<area shape="rect" id="node103" href="$mykonos__gpio_8h.html#af4f21b753d44cf33e3f9e346f0cb9bc3" title="Initiates temperature measurement." alt="" coords="883,2561,1130,2588"/>
+<area shape="rect" id="node44" href="$mykonos_8h.html#afffc680c61b58cea30b473cfe3dfb935" title="Aborts from an on going ARM init calibration operation." alt="" coords="607,1872,781,1899"/>
+<area shape="rect" id="node45" href="$mykonos_8h.html#a55197f5ddf2a415cd790f032c717dd24" title="Get the Suspended or Resumed state for tracking calibrations." alt="" coords="586,1923,802,1949"/>
+<area shape="rect" id="node46" href="$mykonos_8h.html#a5737227ffb4dc244387b5daed42cff7d" title="Reads back the version of the ARM binary loaded into the Mykonos ARM memory." alt="" coords="600,2328,788,2355"/>
+<area shape="rect" id="node47" href="$mykonos_8h.html#a28f4d05559a096dd207c98fcb6c42e11" title="This function reads the CLGC calibration status from the Mykonos ARM processor." alt="" coords="603,1973,785,2000"/>
+<area shape="rect" id="node48" href="$mykonos_8h.html#a1949b1602f06e1acd1d229be5e43fdbc" title="This function reads the current error counters for all the DPD error codes from mykonosDpdErrors_t." alt="" coords="579,2024,809,2051"/>
+<area shape="rect" id="node49" href="$mykonos_8h.html#a3e1602a28ebc2d52ffe0f65fe21aebbf" title="This function reads the DPD calibration status from the Mykonos ARM processor." alt="" coords="603,2075,785,2101"/>
+<area shape="rect" id="node50" href="$mykonos_8h.html#a74d01791d37c66e69aaa80bcdd9e6120" title="Gets the device initialization calibration status." alt="" coords="597,2125,791,2152"/>
+<area shape="rect" id="node52" href="$mykonos_8h.html#aabbaeaa1805920d18d0fd2eeab50ccb9" title="Reads back the currently enabled Observation Rx channel in the radioOn state." alt="" coords="581,2176,807,2203"/>
+<area shape="rect" id="node53" href="$mykonos_8h.html#a63633dd49c522d2bbba8541f44b9553a" title="Returns the status of the ORxQEC tracking calibration." alt="" coords="593,2227,795,2253"/>
+<area shape="rect" id="node54" href="$mykonos_8h.html#a1b58e3b590e3b97704cb1185279bdd73" title="This function will read the current path delay settings for the selected calibration." alt="" coords="605,1416,783,1443"/>
+<area shape="rect" id="node55" href="$mykonos_8h.html#aab5d1b83d40ee33518afd5f96e2c7855" title="Gets the RF PLL local oscillator frequency (RF carrier frequency)." alt="" coords="591,1467,797,1493"/>
+<area shape="rect" id="node56" href="$mykonos_8h.html#a9e5988b7e1412cc99086aa3a7a6920e9" title="Gets the RF PLL loop filter bandwidth and stability." alt="" coords="593,1517,795,1544"/>
+<area shape="rect" id="node57" href="$mykonos_8h.html#a6fc181c74969b9044a2b00c637f22a80" title="Returns the status of the RxQEC tracking calibration." alt="" coords="596,1568,792,1595"/>
+<area shape="rect" id="node58" href="$mykonos_8h.html#a766a557775138a0d67c5a7aecf4532eb" title="Get the Suspended or Resumed state for individual tracking calibration." alt="" coords="584,1619,804,1645"/>
+<area shape="rect" id="node59" href="$mykonos_8h.html#a6368877b1d30bf37cd5f9ec11ef25aa5" title="Returns the status of the TxLOL external tracking calibration." alt="" coords="600,1720,788,1747"/>
+<area shape="rect" id="node60" href="$mykonos_8h.html#a5af827cff44f637f2055bb9f87d0fd8e" title="Returns the status of the TxQEC tracking calibration." alt="" coords="597,1771,791,1797"/>
+<area shape="rect" id="node61" href="$mykonos_8h.html#a5a2956cea73829d4d357dbf74773c249" title="This function reads the VSWR calibration status from the Mykonos ARM processor." alt="" coords="601,1821,787,1848"/>
+<area shape="rect" id="node62" href="$mykonos_8h.html#af1f706ec4634e43391b1ef7c24fb3f3b" title="Low level helper function used by Mykonos API to read the ARM memory config structures." alt="" coords="599,1669,789,1696"/>
+<area shape="rect" id="node71" href="$mykonos_8h.html#a7cbadbcfdc64e4b09d05b9fdc279df74" title="This function called during RadioOff, will allow retrieval of the DPD model file." alt="" coords="601,2379,787,2405"/>
+<area shape="rect" id="node72" href="$mykonos_8h.html#a487a6a3703711a6a4bd1900b0ff1920c" title="Verifies the ARM checksum value." alt="" coords="283,2227,504,2253"/>
+<area shape="rect" id="node51" href="$mykonos_8h.html#a2e91d2b8e26d53381928a63ae3bf62e8" title="Blocking waits for the Mykonos initialization calibrations to complete." alt="" coords="311,2125,475,2152"/>
+<area shape="rect" id="node63" href="$mykonos_8h.html#a0d0bab75bcba76495c4774b2d13773fe" title="Get configuration for CLGC Tx attenuation tuning range." alt="" coords="285,1451,501,1493"/>
+<area shape="rect" id="node64" href="$mykonos_8h.html#a3032e6143e5a20db8d799601416686b3" title=" " alt="" coords="303,1517,484,1544"/>
+<area shape="rect" id="node65" href="$mykonos_8h.html#a12e2744cbdf0fc0cf5f39d2e420dbac2" title="Get configuration for DPD actuator check." alt="" coords="276,1568,511,1595"/>
+<area shape="rect" id="node66" href="$mykonos_8h.html#a09af6d0909a6485db03fdf0c28fe5d80" title="Get configuration for bypassing DPD actuator." alt="" coords="280,1619,507,1645"/>
+<area shape="rect" id="node67" href="$mykonos_8h.html#af5b1d7b5af3d269ef37c0eb68f59ff74" title=" " alt="" coords="303,1669,483,1696"/>
+<area shape="rect" id="node68" href="$mykonos_8h.html#ab18eda84d5bba4b6a784a23c39e4bd21" title="Reads back which ARM tracking cals are enabled." alt="" coords="272,1771,515,1797"/>
+<area shape="rect" id="node70" href="$mykonos_8h.html#a2e643b611e680a22090f097baeb40041" title=" " alt="" coords="301,1720,485,1747"/>
+<area shape="rect" id="node69" href="$mykonos_8h.html#acc5a05a9ab38cfe8bbdb737139a1d6df" title="Suspend or resume individual tracking calibration." alt="" coords="5,1568,224,1595"/>
+<area shape="rect" id="node83" href="$mykonos__gpio_8h.html#a76219786e624e59fecdf6afc7892a98a" title="Sets the Mykonos low voltage GPIO configuration registers." alt="" coords="615,2917,773,2944"/>
+<area shape="rect" id="node121" href="$mykonos__dbgjesd_8h.html#a8d019dd1620a76c9724226632145a28e" title="Performs read of enabled JESD Deframer lanes." alt="" coords="892,3739,1121,3765"/>
+<area shape="rect" id="node122" href="$mykonos__dbgjesd_8h.html#aa297a9fe05bc20743c82c38aee7450f7" title="Performs read back lanes in error for the given errType of the JESD Deframer." alt="" coords="895,3789,1119,3816"/>
+<area shape="rect" id="node123" href="$mykonos__dbgjesd_8h.html#a4a683bc25132383ebb49e900d329f98f" title="Performs read JESD Deframer error thresholds." alt="" coords="897,3840,1117,3867"/>
+<area shape="rect" id="node124" href="$mykonos__dbgjesd_8h.html#a7608a9181028ae78f53ba5beb9a82857" title="Performs a read of the JESD IRQ vector for the deframer." alt="" coords="911,3637,1102,3664"/>
+<area shape="rect" id="node125" href="$mykonos__dbgjesd_8h.html#a8d3c0ebb4dbc8f2e800abde0d1cf5103" title="Performs get JESD Deframer SyncMask." alt="" coords="887,3688,1126,3715"/>
+<area shape="rect" id="node126" href="$mykonos__dbgjesd_8h.html#a46d8bad0f70af7036b69a764ff3af474" title="Performs read back of the error counters for selected lane of the JESD Deframer." alt="" coords="900,4043,1113,4069"/>
+<area shape="rect" id="node127" href="$mykonos__dbgjesd_8h.html#a30559c3aa409a3c64cfb131af10cb4d0" title="Performs reset of the selected error type IRQ for the given lane." alt="" coords="903,3891,1110,3917"/>
+<area shape="rect" id="node128" href="$mykonos__dbgjesd_8h.html#aa8ea3dbf437e2bf88240574652c30d3e" title="Performs set JESD Deframer IRQ mask that will be used to generates interrupts." alt="" coords="895,3941,1118,3968"/>
+<area shape="rect" id="node129" href="$mykonos__dbgjesd_8h.html#a95cdbc77cc5bb09515099181e0b2ea58" title="Performs set JESD Deframer Sync mask." alt="" coords="887,3992,1126,4019"/>
+<area shape="rect" id="node131" href="$mykonos__dbgjesd_8h.html#a8b865a314a7edb880dc33bc006d80fd5" title="Performs reset of the selected error type for the selected lane." alt="" coords="898,4144,1115,4171"/>
+<area shape="rect" id="node132" href="$mykonos__dbgjesd_8h.html#aec2eef66b448eef9f087c4301607acc6" title="Performs set JESD Deframer error thresholds." alt="" coords="897,4093,1116,4120"/>
+<area shape="rect" id="node142" href="$mykonos_8h.html#a422542bd98f4e9feff94afd1709674e2" title="Instructs the ARM processor to move the radio state to the off state." alt="" coords="623,757,765,784"/>
+<area shape="rect" id="node143" href="$mykonos_8h.html#af504d6da479a8a58f311d61174029284" title="Instructs the ARM processor to move the radio state to the Radio ON state." alt="" coords="623,808,765,835"/>
+<area shape="rect" id="node144" href="$mykonos_8h.html#a1e96bc6fdec13e2b6b775f8815e06c04" title="Reschedules a tracking calibration to run. Can be used to override the tracking calibration timer and..." alt="" coords="577,859,811,885"/>
+<area shape="rect" id="node145" href="$mykonos_8h.html#a4a9f359dbf62566b362385121df42fd2" title="This function resets the DPD model." alt="" coords="618,909,770,936"/>
+<area shape="rect" id="node146" href="$mykonos_8h.html#a4f715363b526e4374ec31e0a5a68e1c2" title="Performs reset to the External Tx LO Leakage tracking calibration channel estimate." alt="" coords="579,960,809,987"/>
+<area shape="rect" id="node147" href="$mykonos_8h.html#aa84c291f7480ff7b86fd821122d32ad0" title="Runs the Mykonos initialization calibrations." alt="" coords="614,1011,774,1037"/>
+<area shape="rect" id="node148" href="$mykonos_8h.html#a71a2d8a03ab5af56cb668d7bd4dacf9f" title="This function updates the CLGC desired gain parameter." alt="" coords="609,1061,779,1088"/>
+<area shape="rect" id="node149" href="$mykonos_8h.html#abbfa96d04ff534775275507b9dcedfa4" title="This function sets the state of the DPD actuator." alt="" coords="597,1112,791,1139"/>
+<area shape="rect" id="node150" href="$mykonos_8h.html#a6188d54bbdf9830caf2d7a42c8f4a93f" title="Powers up or down the Observation Rx signal chain in the radioOn state." alt="" coords="581,1163,807,1189"/>
+<area shape="rect" id="node151" href="$mykonos_8h.html#aeeb1bc8b52c08d6855c6aeaf6acc518e" title="Sets the RF PLL loop filter bandwith." alt="" coords="594,1213,794,1240"/>
+<area shape="rect" id="node152" href="$mykonos_8h.html#ad19505aeda892f3f4754fb7056492dc9" title="Selects the Sniffer RF input to use for the observation receiver when in ObsRx pin mode and ORX_MODE ..." alt="" coords="591,1264,797,1291"/>
+</map>

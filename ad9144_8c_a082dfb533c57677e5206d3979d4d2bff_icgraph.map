@@ -1,0 +1,10 @@
+<map id="ad9144_spi_read" name="ad9144_spi_read">
+<area shape="rect" id="node1" title="ad9144_spi_read" alt="" coords="593,81,724,108"/>
+<area shape="rect" id="node2" href="$ad9144_8h.html#aaf06c22427ee662beb6ac3e5e502c636" title="ad9144_datapath_prbs_test" alt="" coords="108,5,311,32"/>
+<area shape="rect" id="node4" href="$ad9144_8h.html#a204417b365a61839fff3dee300141b72" title="ad9144_setup" alt="" coords="395,56,509,83"/>
+<area shape="rect" id="node5" href="$ad9144_8h.html#ad50885c10f3b1a76854c59082ed1a5cb" title="ad9144_spi_check_status" alt="" coords="359,107,545,133"/>
+<area shape="rect" id="node8" href="$ad9144_8h.html#a6110170d89a1e8340f07e4c044797cf1" title="ad9144_status &#45; return the status of the JESD interface" alt="" coords="393,183,511,209"/>
+<area shape="rect" id="node3" href="$fmcdaq2_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,107,60,133"/>
+<area shape="rect" id="node6" href="$ad9144_8h.html#a08ce45c8bcf99c7da3787d620cf2e55d" title=" " alt="" coords="128,107,291,133"/>
+<area shape="rect" id="node7" href="$ad9144_8h.html#a5c6deb37b6af03fcaef768811b00237e" title="ad9144_short_pattern_test" alt="" coords="111,157,307,184"/>
+</map>

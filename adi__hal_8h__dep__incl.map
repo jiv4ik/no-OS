@@ -1,0 +1,13 @@
+<map id="projects/adrv9009/src/devices/adi_hal/adi_hal.h" name="projects/adrv9009/src/devices/adi_hal/adi_hal.h">
+<area shape="rect" id="node1" title="Contains Talise ADI HAL function prototypes type definitions for adi_hal.c." alt="" coords="496,5,680,47"/>
+<area shape="rect" id="node2" href="$app__clocking_8c.html" title="Clock setup and initialization routines." alt="" coords="26,184,186,225"/>
+<area shape="rect" id="node3" href="$app__talise_8h.html" title="Talise initialization and control routines." alt="" coords="260,95,420,136"/>
+<area shape="rect" id="node4" href="$app__talise_8c.html" title="Talise initialization and control routines." alt="" coords="503,184,663,225"/>
+<area shape="rect" id="node5" href="$adrv9009_2src_2app_2headless_8c.html" title="Contains example code for user integration with their application." alt="" coords="260,184,420,225"/>
+<area shape="rect" id="node6" href="$app__clocking_8h.html" title="Clock setup and initialization routines." alt="" coords="26,95,186,136"/>
+<area shape="rect" id="node7" href="$adrv9009_2src_2app_2app__jesd_8c.html" title="JESD setup and initialization routines." alt="" coords="687,184,847,225"/>
+<area shape="rect" id="node8" href="$adrv9009_2src_2app_2app__jesd_8h.html" title="JESD setup and initialization routines." alt="" coords="687,95,847,136"/>
+<area shape="rect" id="node9" href="$app__transceiver_8c.html" title="FPGA XCVR setup and initialization routines." alt="" coords="872,184,1038,225"/>
+<area shape="rect" id="node10" href="$app__transceiver_8h.html" title="FPGA XCVR setup and initialization routines." alt="" coords="445,95,612,136"/>
+<area shape="rect" id="node11" href="$no__os__hal_8c.html" title="No&#45;OS Hardware Abstraction Layer." alt="" coords="972,95,1175,136"/>
+</map>

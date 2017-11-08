@@ -1,0 +1,16 @@
+<map id="projects/ad9081/src/app_clock.c" name="projects/ad9081/src/app_clock.c">
+<area shape="rect" id="node1" title="Application clocks initialization." alt="" coords="216,5,364,47"/>
+<area shape="rect" id="node2" href="$spi_8h.html" title="Header file of SPI Interface." alt="" coords="5,169,57,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="73,95,165,121"/>
+<area shape="rect" id="node5" href="$hmc7044_8h.html" title="Header file of HMC7044, HMC7043 Driver." alt="" coords="189,95,284,121"/>
+<area shape="rect" id="node8" href="$error_8h.html" title="Error codes definition." alt="" coords="313,95,377,121"/>
+<area shape="rect" id="node10" href="$app__parameters_8h.html" title="Application parameters." alt="" coords="409,95,549,121"/>
+<area shape="rect" id="node12" href="$app__clock_8h.html" title="Application clocks initialization." alt="" coords="589,95,687,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="237,244,308,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="133,169,215,196"/>
+<area shape="rect" id="node7" href="$delay_8h.html" title="Header file of Delay functions." alt="" coords="239,169,306,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="331,169,399,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="423,169,539,196"/>
+<area shape="rect" id="node13" href="$clk_8h.html" title="Header file of Clock Driver." alt="" coords="614,169,665,196"/>
+<area shape="rect" id="node14" href="$ad9081_2src_2app__config_8h.html" title="Application configuration." alt="" coords="689,169,792,196"/>
+</map>

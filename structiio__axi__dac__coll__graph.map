@@ -1,0 +1,6 @@
+<map id="iio_axi_dac" name="iio_axi_dac">
+<area shape="rect" id="node1" title="Structure with references to DAC and DMA cores." alt="" coords="44,184,135,211"/>
+<area shape="rect" id="node2" href="$structaxi__dmac.html" title=" " alt="" coords="5,95,88,121"/>
+<area shape="rect" id="node3" href="$structaxi__dac.html" title=" " alt="" coords="113,95,183,121"/>
+<area shape="rect" id="node4" href="$structaxi__dac__channel.html" title=" " alt="" coords="85,5,211,32"/>
+</map>

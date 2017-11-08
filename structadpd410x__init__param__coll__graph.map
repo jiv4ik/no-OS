@@ -1,0 +1,10 @@
+<map id="adpd410x_init_param" name="adpd410x_init_param">
+<area shape="rect" id="node1" title="Device driver initialization structure." alt="" coords="220,317,380,344"/>
+<area shape="rect" id="node2" href="$unionphy__comm__init__param.html" title="Contains physical communication initialization structure." alt="" coords="124,184,292,211"/>
+<area shape="rect" id="node3" href="$structi2c__init__param.html" title="Structure holding the parameters for I2C initialization." alt="" coords="20,95,135,121"/>
+<area shape="rect" id="node4" href="$structi2c__platform__ops.html" title="Structure holding I2C function pointers that point to the platform specific function." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node5" href="$structspi__init__param.html" title="Structure holding the parameters for SPI initialization." alt="" coords="165,95,280,121"/>
+<area shape="rect" id="node6" href="$structspi__platform__ops.html" title="Structure holding SPI function pointers that point to the platform specific function." alt="" coords="160,5,291,32"/>
+<area shape="rect" id="node7" href="$structgpio__init__param.html" title="Structure holding the parameters for GPIO initialization." alt="" coords="317,184,441,211"/>
+<area shape="rect" id="node8" href="$structgpio__platform__ops.html" title="Structure holding gpio function pointers that point to the platform specific function." alt="" coords="309,95,449,121"/>
+</map>

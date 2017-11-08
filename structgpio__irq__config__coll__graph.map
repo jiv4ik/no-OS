@@ -1,0 +1,5 @@
+<map id="gpio_irq_config" name="gpio_irq_config">
+<area shape="rect" id="node1" title="GPIO group interrupt configuration routine." alt="" coords="17,184,134,211"/>
+<area shape="rect" id="node2" href="$structgpio__desc.html" title="Structure holding the GPIO descriptor." alt="" coords="32,95,119,121"/>
+<area shape="rect" id="node3" href="$structgpio__platform__ops.html" title="Structure holding gpio function pointers that point to the platform specific function." alt="" coords="5,5,145,32"/>
+</map>

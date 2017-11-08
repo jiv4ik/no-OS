@@ -1,0 +1,13 @@
+<map id="altera_a10_fpll_write" name="altera_a10_fpll_write">
+<area shape="rect" id="node1" title="altera_a10_fpll_write" alt="" coords="787,162,939,189"/>
+<area shape="rect" id="node2" href="$clk__altera__a10__fpll_8c.html#ad89f1fb9c78d601eaa042315551f6472" title="altera_a10_acquire_arbitration" alt="" coords="583,71,727,112"/>
+<area shape="rect" id="node4" href="$clk__altera__a10__fpll_8h.html#a8174d4dc2a66720898b92f4fafe84d55" title="altera_a10_fpll_set_rate" alt="" coords="349,137,524,163"/>
+<area shape="rect" id="node8" href="$clk__altera__a10__fpll_8h.html#ad490d7605c5b8ffce221e072c80f3f34" title="altera_a10_fpll_disable" alt="" coords="353,263,520,290"/>
+<area shape="rect" id="node9" href="$clk__altera__a10__fpll_8h.html#ad89d3f8558ae0623aab208de7425dc4c" title="altera_a10_fpll_enable" alt="" coords="354,213,519,239"/>
+<area shape="rect" id="node10" href="$clk__altera__a10__fpll_8c.html#accde143d2b5b297d33cdc2720a90dcbb" title="altera_a10_fpll_update" alt="" coords="572,137,739,163"/>
+<area shape="rect" id="node11" href="$clk__altera__a10__fpll_8c.html#ae1f8857e19f6a25bf5ff51742e479dde" title="altera_a10_release_arbitration" alt="" coords="583,5,727,47"/>
+<area shape="rect" id="node3" href="$clk__altera__a10__fpll_8c.html#a58ce7ef2b7a816eeeb0e1a4b082313ea" title="altera_a10_fpll_recalc_rate" alt="" coords="108,78,301,105"/>
+<area shape="rect" id="node5" href="$app__clocking_8h.html#adab63a630c95f109e3b4330b5b0253b6" title=" " alt="" coords="155,238,254,265"/>
+<area shape="rect" id="node7" href="$fmcdaq2_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="177,187,232,214"/>
+<area shape="rect" id="node6" href="$adrv9009_2src_2app_2headless_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,238,60,265"/>
+</map>

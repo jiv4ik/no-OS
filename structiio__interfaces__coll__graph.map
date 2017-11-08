@@ -1,0 +1,7 @@
+<map id="iio_interfaces" name="iio_interfaces">
+<area shape="rect" id="node1" title="Structure containing all interfaces." alt="" coords="5,363,112,389"/>
+<area shape="rect" id="node2" href="$structiio__interface.html" title="Links a physical device instance &quot;void *dev_instance&quot; with a &quot;iio_device *iio&quot; that describes capabil..." alt="" coords="9,273,108,300"/>
+<area shape="rect" id="node3" href="$structiio__device.html" title="Structure holding channels and attributes of a device." alt="" coords="17,184,101,211"/>
+<area shape="rect" id="node4" href="$structiio__channel.html" title="Structure holding attributes of a channel." alt="" coords="104,95,197,121"/>
+<area shape="rect" id="node5" href="$structiio__attribute.html" title="Structure holding pointers to show and store functions." alt="" coords="9,5,108,32"/>
+</map>

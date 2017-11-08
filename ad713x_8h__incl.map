@@ -1,0 +1,9 @@
+<map id="drivers/adc/ad713x/ad713x.h" name="drivers/adc/ad713x/ad713x.h">
+<area shape="rect" id="node1" title="Header file for the ad713x Driver." alt="" coords="68,5,211,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="9,169,91,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="23,95,88,121"/>
+<area shape="rect" id="node4" href="$spi_8h.html" title="Header file of SPI Interface." alt="" coords="191,95,243,121"/>
+<area shape="rect" id="node6" href="$gpio_8h.html" title="Header file of GPIO Interface." alt="" coords="267,95,329,121"/>
+<area shape="rect" id="node7" href="$util_8h.html" title="Implementation of utility functions." alt="" coords="113,95,166,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="181,169,252,196"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="iio_init" name="iio_init">
+<area shape="rect" id="node1" title="Set communication ops and read/write ops that will be called from &quot;libtinyiiod&quot;." alt="" coords="147,5,209,32"/>
+<area shape="rect" id="node2" href="$iio__app_8h.html#a3c0df7125e542b28f2fe2e731331236b" title="Application parameterization." alt="" coords="5,5,99,32"/>
+</map>

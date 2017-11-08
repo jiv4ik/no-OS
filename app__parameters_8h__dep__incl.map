@@ -1,0 +1,7 @@
+<map id="projects/ad9081/src/app_parameters.h" name="projects/ad9081/src/app_parameters.h">
+<area shape="rect" id="node1" title="Application parameters." alt="" coords="263,5,411,47"/>
+<area shape="rect" id="node2" href="$app_8c.html" title="AD9081 application example." alt="" coords="5,95,153,136"/>
+<area shape="rect" id="node3" href="$app__clock_8c.html" title="Application clocks initialization." alt="" coords="177,95,325,136"/>
+<area shape="rect" id="node4" href="$ad9081_2src_2app__iio_8c.html" title="Application IIO setup." alt="" coords="349,95,497,136"/>
+<area shape="rect" id="node5" href="$ad9081_2src_2app__jesd_8c.html" title="Application JESD setup." alt="" coords="521,95,669,136"/>
+</map>

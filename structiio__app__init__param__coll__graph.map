@@ -1,0 +1,4 @@
+<map id="iio_app_init_param" name="iio_app_init_param">
+<area shape="rect" id="node1" title="Application initial configuration." alt="" coords="5,95,148,121"/>
+<area shape="rect" id="node2" href="$structiio__server__ops.html" title="iio interface for server read/write operations" alt="" coords="20,5,133,32"/>
+</map>

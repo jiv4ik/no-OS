@@ -1,0 +1,8 @@
+<map id="projects/adv7511/src/wrapper.h" name="projects/adv7511/src/wrapper.h">
+<area shape="rect" id="node1" title=" " alt="" coords="241,5,396,47"/>
+<area shape="rect" id="node2" href="$edid_8h.html" title="EDID control module header." alt="" coords="69,95,224,136"/>
+<area shape="rect" id="node4" href="$transmitter_8c.html" title=" " alt="" coords="184,184,339,225"/>
+<area shape="rect" id="node5" href="$adv7511_2src_2main_8c.html" title="The implementation of the main function of the app." alt="" coords="299,95,453,136"/>
+<area shape="rect" id="node6" href="$wrapper_8c.html" title=" " alt="" coords="477,95,632,136"/>
+<area shape="rect" id="node3" href="$edid_8c.html" title="EDID control module source." alt="" coords="5,184,160,225"/>
+</map>

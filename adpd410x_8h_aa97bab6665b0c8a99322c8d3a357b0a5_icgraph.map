@@ -1,0 +1,10 @@
+<map id="adpd410x_reg_write" name="adpd410x_reg_write">
+<area shape="rect" id="node1" title="Write device register." alt="" coords="688,233,839,260"/>
+<area shape="rect" id="node2" href="$adpd410x_8h.html#a3398d6eea6ec9b5840cbdbfb21363ac0" title="Do a read and write of a register to update only part of a register." alt="" coords="439,132,631,159"/>
+<area shape="rect" id="node4" href="$adpd410x_8h.html#a8c47ad8226f8c0882232750616b4ac6d" title="Setup the device and the driver." alt="" coords="5,56,133,83"/>
+<area shape="rect" id="node7" href="$adpd410x_8h.html#aeebd23ab85c6cd30017c65946538e5e3" title="Setup an active time slot." alt="" coords="189,208,375,235"/>
+<area shape="rect" id="node8" href="$adpd410x_8h.html#adfc05439df83ca920f95cda419f45ee3" title="Set device sampling frequency." alt="" coords="431,309,640,336"/>
+<area shape="rect" id="node3" href="$adpd410x_8h.html#a7a74b5425d1d67e763df0ab85dc2df12" title="Do a software reset." alt="" coords="219,5,345,32"/>
+<area shape="rect" id="node5" href="$adpd410x_8c.html#a276c3d1815c3a76bc0c4a8556d51cc3b" title="Set number of active time slots." alt="" coords="181,107,383,133"/>
+<area shape="rect" id="node6" href="$adpd410x_8h.html#a2f5eb641289541459498a473a416724d" title="Set operation mode." alt="" coords="196,157,368,184"/>
+</map>

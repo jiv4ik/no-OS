@@ -1,0 +1,9 @@
+<map id="ad9250_init_param" name="ad9250_init_param">
+<area shape="rect" id="node1" title=" " alt="" coords="403,184,548,211"/>
+<area shape="rect" id="node2" href="$structad9250__state.html" title=" " alt="" coords="277,95,388,121"/>
+<area shape="rect" id="node3" href="$structad9250__jesd204b__cfg.html" title="JESD204B interface configuration." alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node4" href="$structad9250__platform__data.html" title="Platform specific information." alt="" coords="191,5,357,32"/>
+<area shape="rect" id="node5" href="$structad9250__fast__detect__cfg.html" title="Fast Detect module configuration." alt="" coords="381,5,556,32"/>
+<area shape="rect" id="node6" href="$structspi__init__param.html" title="Structure holding the parameters for SPI initialization." alt="" coords="530,95,645,121"/>
+<area shape="rect" id="node7" href="$structspi__platform__ops.html" title="Structure holding SPI function pointers that point to the platform specific function." alt="" coords="581,5,711,32"/>
+</map>

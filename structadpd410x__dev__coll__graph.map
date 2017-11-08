@@ -1,0 +1,10 @@
+<map id="adpd410x_dev" name="adpd410x_dev">
+<area shape="rect" id="node1" title="Device driver handler." alt="" coords="93,317,207,344"/>
+<area shape="rect" id="node2" href="$structgpio__desc.html" title="Structure holding the GPIO descriptor." alt="" coords="35,184,121,211"/>
+<area shape="rect" id="node3" href="$structgpio__platform__ops.html" title="Structure holding gpio function pointers that point to the platform specific function." alt="" coords="5,95,145,121"/>
+<area shape="rect" id="node4" href="$unionphy__comm__dev.html" title="Contains physical communication handler." alt="" coords="147,184,270,211"/>
+<area shape="rect" id="node5" href="$structi2c__desc.html" title="Structure holding I2C descriptor." alt="" coords="170,95,247,121"/>
+<area shape="rect" id="node6" href="$structi2c__platform__ops.html" title="Structure holding I2C function pointers that point to the platform specific function." alt="" coords="138,5,269,32"/>
+<area shape="rect" id="node7" href="$structspi__desc.html" title="Structure holding SPI descriptor." alt="" coords="299,95,377,121"/>
+<area shape="rect" id="node8" href="$structspi__platform__ops.html" title="Structure holding SPI function pointers that point to the platform specific function." alt="" coords="293,5,423,32"/>
+</map>

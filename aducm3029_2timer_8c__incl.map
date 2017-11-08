@@ -1,0 +1,10 @@
+<map id="drivers/platform/aducm3029/timer.c" name="drivers/platform/aducm3029/timer.c">
+<area shape="rect" id="node1" title="Implementation of TIMER driver for ADuCM302x." alt="" coords="230,5,433,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,73,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,95,253,121"/>
+<area shape="rect" id="node4" href="$aducm3029_2timer__extra_8h.html" title="Header file of TIMER driver for ADuCM302x." alt="" coords="277,95,385,121"/>
+<area shape="rect" id="node5" href="$timer_8h.html" title="Timer control module header." alt="" coords="410,95,477,121"/>
+<area shape="rect" id="node7" href="$error_8h.html" title="Error codes definition." alt="" coords="502,95,566,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="407,169,477,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="501,169,569,196"/>
+</map>

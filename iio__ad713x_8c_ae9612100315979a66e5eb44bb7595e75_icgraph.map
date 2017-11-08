@@ -1,0 +1,5 @@
+<map id="iio_ad713x_delete_device" name="iio_ad713x_delete_device">
+<area shape="rect" id="node1" title="Delete iio_device." alt="" coords="200,31,385,57"/>
+<area shape="rect" id="node2" href="$iio__ad713x_8h.html#a259a55182ae9a8bbf607f56a79f97f45" title="Initialization function." alt="" coords="21,5,137,32"/>
+<area shape="rect" id="node3" href="$iio__ad713x_8h.html#a25cb6e1b4357580ba242c096358f7984" title="Release resources." alt="" coords="5,56,152,83"/>
+</map>

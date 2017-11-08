@@ -1,0 +1,13 @@
+<map id="ad5770r_dev" name="ad5770r_dev">
+<area shape="rect" id="node1" title=" " alt="" coords="641,225,747,252"/>
+<area shape="rect" id="node2" href="$structad5770r__output__range.html" title=" " alt="" coords="295,15,463,41"/>
+<area shape="rect" id="node3" href="$structad5770r__alarm__cfg.html" title=" " alt="" coords="307,65,452,92"/>
+<area shape="rect" id="node4" href="$structad5770r__channel__switches.html" title=" " alt="" coords="283,144,476,171"/>
+<area shape="rect" id="node5" href="$structad5770r__dac__page__mask.html" title=" " alt="" coords="286,195,473,221"/>
+<area shape="rect" id="node6" href="$structad5770r__device__spi__settings.html" title=" " alt="" coords="305,246,453,287"/>
+<area shape="rect" id="node7" href="$structad5770r__monitor__setup.html" title=" " alt="" coords="292,312,467,339"/>
+<area shape="rect" id="node8" href="$structgpio__desc.html" title="Structure holding the GPIO descriptor." alt="" coords="336,369,423,396"/>
+<area shape="rect" id="node9" href="$structgpio__platform__ops.html" title="Structure holding gpio function pointers that point to the platform specific function." alt="" coords="5,369,145,396"/>
+<area shape="rect" id="node10" href="$structspi__desc.html" title="Structure holding SPI descriptor." alt="" coords="341,420,418,447"/>
+<area shape="rect" id="node11" href="$structspi__platform__ops.html" title="Structure holding SPI function pointers that point to the platform specific function." alt="" coords="10,420,141,447"/>
+</map>
